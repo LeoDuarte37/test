@@ -5,3 +5,5 @@
 # ola mundo
 
 # git pull
+
+# git fetch
